@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+
+*{
+    font-family: "Cairo", sans-serif;
+}
+.navbar{
+    background-color: rgba(46, 70, 88, 0.6) !important;
+}
+
+.form-control{
+    background-color: aliceblue;
+    color: black;
+}
+.carousel-item img {
+    height: 100vh;
+}
+.card .btn{
+    background-color: aqua;
+    transition: .5s ease;
+}
+.card .btn:hover{
+    background-color: crimson;
+}
+.card .card-text{
+    font-size: 20px;
+}
+.card .card-title{
+    font-size: 25px;
+    font-weight: 700;
+    align-items: center;
+    text-align: center; 
+}
+
+.back button{
+    background-color: #1abc9c;
+}
+.back .crim{
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.ala{
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    background-color: #3f4763;
+    color: white;
+    padding: 15px;
+}
